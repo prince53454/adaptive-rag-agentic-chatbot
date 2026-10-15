@@ -1,3 +1,18 @@
+<!--STYLE-START-->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prince53454/prince53454/main/assets/banner.svg" width="100%"/>
+
+# ⟦ adaptive-rag-agentic-chatbot ⟧
+
+![status](https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=020806)
+![stars](https://img.shields.io/github/stars/prince53454/adaptive-rag-agentic-chatbot?style=for-the-badge&labelColor=020806&color=ff2d2d)
+
+<img src="https://raw.githubusercontent.com/prince53454/prince53454/main/assets/divider.svg" width="100%"/>
+
+</div>
+<!--STYLE-END-->
+
 # Adaptive RAG - Agentic AI Chatbot
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
